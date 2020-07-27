@@ -1,0 +1,210 @@
+    .header-main {
+        background: #a6a6a6;
+        margin: auto;
+        height: auto;
+    }
+    
+    .header-box {
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        font-size: larger;
+        justify-content: space-around;
+        height: 30%;
+    }
+    
+    .headerLink {
+        font-size: 1.875em;
+        color: #262626;
+        font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+        padding: 0.5em;
+        margin: auto;
+    }
+    
+    .search {
+        background-color: #fff;
+        padding: 0.5em;
+        border-radius: 10px;
+        margin-top: 5px;
+    }
+    
+    .first-section {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-row-gap: 5px;
+        grid-column-gap: 5px;
+        margin-top: 5px;
+    }
+    
+    .f1 {
+        width: 100%;
+        height: 300px;
+        background-color: rgb(195, 188, 188);
+    }
+    
+    .second-section {
+        display: flex;
+        width: 75%;
+        margin-top: 5px;
+        margin-left: 20px;
+    }
+    
+    .f2 {
+        width: 33.33%;
+        height: 500px;
+    }
+    
+    .link-1 {
+        float: left;
+        width: 10px;
+        height: 100px;
+        background-color: gray;
+        margin-left: 20px;
+    }
+    
+    .f2-date {
+        width: 100px;
+        height: 15px;
+        background-color: gray;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    
+    .f2-title {
+        width: 90%;
+        height: 25px;
+        background-color: gray;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    
+    .f2-by {
+        width: 100px;
+        height: 15px;
+        background-color: gray;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 10px;
+    }
+    
+    .f2-text {
+        width: 90%;
+        height: 20px;
+        background-color: rgb(189, 178, 178);
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    
+    .f2-arrow {
+        width: 30px;
+        height: 30px;
+        background-color: grey;
+        margin-top: 225px;
+        margin-left: 10px;
+    }
+    
+    .f3-arrow {
+        width: 30px;
+        height: 30px;
+        background-color: grey;
+        margin-top: 150px;
+        margin-left: 10px;
+    }
+    
+    .third-section {
+        display: flex;
+        width: 95%;
+        height: auto;
+        padding-left: 40px;
+        margin-top: 100px;
+    }
+    
+    .f3-left {
+        width: 50%;
+        height: 600px;
+        background-color: red;
+        margin-right: 10px;
+    }
+    
+    .f3-right {
+        width: 25%;
+        height: 600px;
+    }
+    
+    .fourth-section {
+        display: flex;
+        width: 95%;
+        height: auto;
+        padding-left: 50px;
+        margin-top: 100px;
+    }
+    
+    .insection-line {
+        width: 200px;
+        height: 20px;
+        background-color: rgb(173, 157, 157);
+        margin-top: 80px;
+        text-align: center;
+        margin-left: 45%;
+    }
+    
+    .middle-block {
+        width: 100%;
+        height: 1200px;
+        background-color: rgb(192, 181, 181);
+        margin-bottom: 10px;
+        margin-top: 80px;
+    }
+    
+    .f5-flex {
+        display: flex;
+        margin-left: 40px;
+    }
+    
+    .f5-left {
+        width: 20%;
+        height: 200px;
+        border: 1px solid black;
+    }
+    
+    .f5-right {
+        width: 80%;
+        height: 200px;
+        border: 1px black solid;
+    }
+    
+    .f5-mainimg {
+        width: 90%;
+        height: 90%;
+        background-color: gray;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    /* footer */
+    
+    .footer-box {
+        height: auto;
+        display: inline-block;
+        background: #999;
+        margin: 0 auto;
+    }
+    
+    .flexStream {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .footer-box h2 {
+        text-align: center;
+        font-size: xx-large;
+    }
+    
+    .footerList {
+        font-size: larger;
+        color: #fff;
+        font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+        padding: 0.37em;
+        margin: auto;
+        list-style-type: circle;
+    }
