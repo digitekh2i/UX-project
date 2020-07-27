@@ -248,7 +248,7 @@
     grid-template-rows: 1fr 1fr;
     grid-row-gap: 8px;
     grid-column-gap: 8px;
-    margin-left: 5px;
+    margin-left: 40px;
 }
 
 .f6 {
@@ -279,7 +279,7 @@ footer {
 
 .footer-box h2 {
     text-align: center;
-    font-size: xx-large;
+    font-size: bold;
     margin: auto;
 }
 
@@ -288,11 +288,10 @@ footer {
 }
 
 .footerList {
-    font-size: larger;
+    font-size: bold;
     color: #fff;
     font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
     padding: 0.37em;
-    margin: 13px;
 }
 
 .footer-flex {
