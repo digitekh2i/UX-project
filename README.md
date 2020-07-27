@@ -12,7 +12,7 @@
 - Visual Studio Code, Git and Github.
 
 ## Live Demo
-[Live Demo Link](https://rashidmvk.github.io/Rashid-Daniel-The-NewYork-times/)
+[Live Demo Link](https://pastorp3.github.io/)
 
 ## Authors
 
